@@ -1,0 +1,17 @@
+{
+    "keys": [
+        "0000"
+    ],
+    "fileSizeLimit": 52428800,
+    "fileNameLength": 8,
+    "serverUrl": "https://www.worldautomation.net/upload",
+    "fileExtensionCheck": {
+        "enabled": false,
+        "extensionsAllowed": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".gif"
+        ]
+    }
+}
